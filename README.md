@@ -218,26 +218,6 @@ python3 main.py
 
 ---
 
-## 🔥 Update routine for future days
-
-When I finish a new day:
-
-1. Add the new project folder.
-2. Add a `README.md` inside that project folder.
-3. Update the matching row in the 100-day tracker from `⏳ Coming soon` to `✅ Done`.
-4. Update the completed counter badge and progress section.
-5. Commit and push.
-
-Example:
-
-```bash
-git add .
-git commit -m "Add day 10 project"
-git push
-```
-
----
-
 ## 🙏 Acknowledgment
 
 This repo follows my progress through **Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp**.  
