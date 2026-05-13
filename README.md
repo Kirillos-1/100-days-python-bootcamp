@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: Python Bootcamp Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Completed-9%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-10%2F100-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-purple?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20with-Discipline%20%2B%20Coffee-black?style=for-the-badge)
@@ -28,12 +28,12 @@ The goal is simple:
 
 ## 📍 Current progress
 
-**Completed:** `9 / 100` days  
+**Completed:** `10 / 100` days  
 **Current stage:** Python foundations  
-**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, and console games.
+**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, and functions with return values.
 
 ```text
-Progress: ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9%
+Progress: ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
@@ -53,7 +53,7 @@ This table is prepared for the full challenge, so I can keep updating it day by 
 |   7 | ✅ Done        | [🎯 Hangman](./007_hangman)                                      | loops, lists, modules, random word selection, game state              |
 |   8 | ✅ Done        | [🕵️ Caesar Cipher](./008_caesar_cipher)                          | functions with parameters, return values, modulo arithmetic           |
 |   9 | ✅ Done        | [🏆 Secret Auction](./009_secret_auction)                        | dictionaries, functions, input validation, loops                      |
-|  10 | ⏳ Coming soon | Day 10 project                                                   | Beginner Python foundations                                           |
+|  10 | ✅ Done        | [🧮 Calculator](./010_calculator)                                | functions with outputs, return values, dictionaries, input validation |
 |  11 | ⏳ Coming soon | Day 11 project                                                   | Beginner Python foundations                                           |
 |  12 | ⏳ Coming soon | Day 12 project                                                   | Beginner Python foundations                                           |
 |  13 | ⏳ Coming soon | Day 13 project                                                   | Beginner Python foundations                                           |
@@ -175,6 +175,7 @@ This table is prepared for the full challenge, so I can keep updating it day by 
 ├── 007_hangman/
 ├── 008_caesar_cipher/
 ├── 009_secret_auction/
+├── 010_calculator/
 ├── PROJECT_INDEX.md
 ├── .gitignore
 └── README.md
@@ -197,14 +198,14 @@ Each project folder includes its own `README.md` with:
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/100-days-python-bootcamp.git
+git clone https://github.com/Kirillos-1/100-days-python-bootcamp.git
 cd 100-days-python-bootcamp
 ```
 
 Go into any completed day folder:
 
 ```bash
-cd 009_secret_auction
+cd 010_calculator
 python main.py
 ```
 
