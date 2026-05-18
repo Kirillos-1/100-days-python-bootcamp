@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: Python Bootcamp Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Completed-13%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-14%2F100-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-purple?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20with-Discipline%20%2B%20Coffee-black?style=for-the-badge)
@@ -28,12 +28,12 @@ The goal is simple:
 
 ## 📍 Current progress
 
-**Completed:** `13 / 100` days  
+**Completed:** `14 / 100` days  
 **Current stage:** Python foundations  
-**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, card-game logic, scope, constants, random numbers, input validation, debugging, and cleaner function-based structure.
+**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, card-game logic, scope, constants, random numbers, input validation, debugging, data comparison, score tracking, and cleaner function-based structure.
 
 ```text
-Progress: █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13%
+Progress: ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14%
 ```
 
 ---
@@ -55,8 +55,9 @@ Progress: █████████████░░░░░░░░░░�
 |  11 | ✅ Done        | [🃏 Blackjack](./011_blackjack)                                  | capstone project, functions, lists, score logic, input validation     |
 |  12 | ✅ Done        | [🔢 Number Guessing Game](./012_number_guessing_game)            | scope, constants, random numbers, input validation, game loops        |
 |  13 | ✅ Done        | [🕵️ Debugging Detective](./013_debugging_detective)              | debugging, bug types, dictionaries, input validation, code reading    |
-|  14 | ⏳ Coming soon | Day 14 project                                                   | Higher Lower Game                                                     |
-| 15+ | ⏳ Coming soon | More projects                                                    | Intermediate Python, APIs, automation, GUI, web, data, and capstones  |
+|  14 | ✅ Done        | [📈 Higher Lower Game](./014_higher_lower)                       | dictionaries, data comparison, random selection, score tracking       |
+|  15 | ⏳ Coming soon | Day 15 project                                                   | Intermediate Python + local development                               |
+| 16+ | ⏳ Coming soon | More projects                                                    | Intermediate Python, APIs, automation, GUI, web, data, and capstones  |
 
 ---
 
@@ -74,6 +75,8 @@ Progress: █████████████░░░░░░░░░░�
 - Error handling with `try` / `except`
 - Debugging and bug classification
 - Reading broken code and identifying the error type
+- Data formatting and comparison logic
+- Score tracking across game rounds
 - Terminal screen clearing with the `os` module
 - Splitting code across multiple files
 - Writing cleaner project documentation
@@ -97,6 +100,7 @@ Progress: █████████████░░░░░░░░░░�
 ├── 011_blackjack/
 ├── 012_number_guessing_game/
 ├── 013_debugging_detective/
+├── 014_higher_lower/
 ├── PROJECT_INDEX.md
 ├── .gitignore
 └── README.md
@@ -126,7 +130,7 @@ cd 100-days-python-bootcamp
 Go into any completed day folder:
 
 ```bash
-cd 013_debugging_detective
+cd 014_higher_lower
 python main.py
 ```
 
@@ -137,16 +141,6 @@ python3 main.py
 ```
 
 > Some days may include extra practice files like `section_code.py`. Those files are kept because they show the learning process, not only the final answer.
-
----
-
-## 🧪 About Day 13
-
-Day 13 in the bootcamp focuses on debugging rather than a normal final project. To keep the repo consistent, I created a custom project called **Debugging Detective**.
-
-The goal of this project is to practice reading broken Python snippets and identifying the type of bug before seeing the explanation.
-
-This keeps Day 13 useful, practical, and aligned with the debugging lesson.
 
 ---
 
