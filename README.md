@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: Python Bootcamp Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Completed-14%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-15%2F100-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-purple?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20with-Discipline%20%2B%20Coffee-black?style=for-the-badge)
@@ -28,12 +28,12 @@ The goal is simple:
 
 ## 📍 Current progress
 
-**Completed:** `14 / 100` days  
-**Current stage:** Python foundations  
-**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, card-game logic, scope, constants, random numbers, input validation, debugging, data comparison, score tracking, and cleaner function-based structure.
+**Completed:** `15 / 100` days  
+**Current stage:** Python foundations moving into local development  
+**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, card-game logic, scope, constants, random numbers, input validation, debugging, data comparison, score tracking, resource management, money processing, and cleaner function-based structure.
 
 ```text
-Progress: ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14%
+Progress: ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%
 ```
 
 ---
@@ -56,8 +56,9 @@ Progress: ██████████████░░░░░░░░░�
 |  12 | ✅ Done        | [🔢 Number Guessing Game](./012_number_guessing_game)            | scope, constants, random numbers, input validation, game loops        |
 |  13 | ✅ Done        | [🕵️ Debugging Detective](./013_debugging_detective)              | debugging, bug types, dictionaries, input validation, code reading    |
 |  14 | ✅ Done        | [📈 Higher Lower Game](./014_higher_lower)                       | dictionaries, data comparison, random selection, score tracking       |
-|  15 | ⏳ Coming soon | Day 15 project                                                   | Intermediate Python + local development                               |
-| 16+ | ⏳ Coming soon | More projects                                                    | Intermediate Python, APIs, automation, GUI, web, data, and capstones  |
+|  15 | ✅ Done        | [☕ Coffee Machine](./015_coffee_machine)                        | dictionaries, resource management, money processing, program state    |
+|  16 | ⏳ Coming soon | Day 16 project                                                   | Object-Oriented Programming                                           |
+| 17+ | ⏳ Coming soon | More projects                                                    | Intermediate Python, APIs, automation, GUI, web, data, and capstones  |
 
 ---
 
@@ -69,6 +70,7 @@ Progress: ██████████████░░░░░░░░░�
 - Loops and repeated actions
 - Functions, parameters, and return values
 - Lists and dictionaries
+- Nested dictionaries and structured data
 - Randomization and simple game logic
 - Scope and constants
 - Input validation
@@ -77,6 +79,8 @@ Progress: ██████████████░░░░░░░░░�
 - Reading broken code and identifying the error type
 - Data formatting and comparison logic
 - Score tracking across game rounds
+- Resource checking and program-state updates
+- Coin processing and transaction validation
 - Terminal screen clearing with the `os` module
 - Splitting code across multiple files
 - Writing cleaner project documentation
@@ -101,6 +105,7 @@ Progress: ██████████████░░░░░░░░░�
 ├── 012_number_guessing_game/
 ├── 013_debugging_detective/
 ├── 014_higher_lower/
+├── 015_coffee_machine/
 ├── PROJECT_INDEX.md
 ├── .gitignore
 └── README.md
@@ -130,7 +135,7 @@ cd 100-days-python-bootcamp
 Go into any completed day folder:
 
 ```bash
-cd 014_higher_lower
+cd 015_coffee_machine
 python main.py
 ```
 
