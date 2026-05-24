@@ -8,10 +8,10 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              O O P   C O F F E E   M A C H I N E           ║
-║                    DAY 16 // PYTHON OOP                     ║
+║              O O P   C O F F E E   M A C H I N E             ║
+║                    DAY 16 // PYTHON OOP                      ║
 ║                                                              ║
-║        CoffeeMaker  +  MoneyMachine  +  Menu  +  main       ║
+║        CoffeeMaker  +  MoneyMachine  +  Menu  +  main        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
