@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: Python Bootcamp Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Completed-15%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-16%2F100-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-purple?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20with-Discipline%20%2B%20Coffee-black?style=for-the-badge)
@@ -28,37 +28,38 @@ The goal is simple:
 
 ## 📍 Current progress
 
-**Completed:** `15 / 100` days  
-**Current stage:** Python foundations moving into local development  
-**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, card-game logic, scope, constants, random numbers, input validation, debugging, data comparison, score tracking, resource management, money processing, and cleaner function-based structure.
+**Completed:** `16 / 100` days  
+**Current stage:** Object-Oriented Programming  
+**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, scope, constants, input validation, debugging, resource management, transaction logic, classes, objects, attributes, methods, and OOP-based program structure.
 
 ```text
-Progress: ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%
+Progress: ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 16%
 ```
 
 ---
 
 ## 🗺️ Project Tracker
 
-| Day | Status         | Project                                                          | Main concepts                                                         |
-| --: | -------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-|   1 | ✅ Done        | [🎸 Band Name Generator](./001_band_name_generator)              | print(), input(), variables, string concatenation                     |
-|   2 | ✅ Done        | [🧾 Tip Calculator](./002_tip_calculator)                        | data types, type conversion, arithmetic operators, f-strings          |
-|   3 | ✅ Done        | [🚀 Space Station Escape](./003_treasure_island)                 | conditionals, if / elif / else, nested decisions, input normalization |
-|   4 | ✅ Done        | [🛡️ Rock Paper Scissors](./004_rocket_paper_scissors)            | randomization, lists, indexing, module imports                        |
-|   5 | ✅ Done        | [🔐 PyPassword Generator](./005_password_generator)              | loops, range(), random.choice(), random.shuffle()                     |
-|   6 | ✅ Done        | [🤖 Function Practice / Karel-Style Robot Day](./006_carl_robot) | functions, parameters, reusable code, basic function calls            |
-|   7 | ✅ Done        | [🎯 Hangman](./007_hangman)                                      | loops, lists, modules, random word selection, game state              |
-|   8 | ✅ Done        | [🕵️ Caesar Cipher](./008_caesar_cipher)                          | functions with parameters, return values, modulo arithmetic           |
-|   9 | ✅ Done        | [🏆 Secret Auction](./009_secret_auction)                        | dictionaries, functions, input validation, loops                      |
-|  10 | ✅ Done        | [🧮 Calculator](./010_calculator)                                | functions with outputs, return values, dictionaries, input validation |
-|  11 | ✅ Done        | [🃏 Blackjack](./011_blackjack)                                  | capstone project, functions, lists, score logic, input validation     |
-|  12 | ✅ Done        | [🔢 Number Guessing Game](./012_number_guessing_game)            | scope, constants, random numbers, input validation, game loops        |
-|  13 | ✅ Done        | [🕵️ Debugging Detective](./013_debugging_detective)              | debugging, bug types, dictionaries, input validation, code reading    |
-|  14 | ✅ Done        | [📈 Higher Lower Game](./014_higher_lower)                       | dictionaries, data comparison, random selection, score tracking       |
-|  15 | ✅ Done        | [☕ Coffee Machine](./015_coffee_machine)                        | dictionaries, resource management, money processing, program state    |
-|  16 | ⏳ Coming soon | Day 16 project                                                   | Object-Oriented Programming                                           |
-| 17+ | ⏳ Coming soon | More projects                                                    | Intermediate Python, APIs, automation, GUI, web, data, and capstones  |
+| Day | Status | Project | Main concepts |
+| --: | ------ | ------- | ------------- |
+| 1 | ✅ Done | [🎸 Band Name Generator](./001_band_name_generator) | print(), input(), variables, string concatenation |
+| 2 | ✅ Done | [🧾 Tip Calculator](./002_tip_calculator) | data types, type conversion, arithmetic operators, f-strings |
+| 3 | ✅ Done | [🚀 Space Station Escape](./003_treasure_island) | conditionals, if / elif / else, nested decisions, input normalization |
+| 4 | ✅ Done | [🛡️ Rock Paper Scissors](./004_rocket_paper_scissors) | randomization, lists, indexing, module imports |
+| 5 | ✅ Done | [🔐 PyPassword Generator](./005_password_generator) | loops, range(), random.choice(), random.shuffle() |
+| 6 | ✅ Done | [🤖 Function Practice / Karel-Style Robot Day](./006_carl_robot) | functions, parameters, reusable code, basic function calls |
+| 7 | ✅ Done | [🎯 Hangman](./007_hangman) | loops, lists, modules, random word selection, game state |
+| 8 | ✅ Done | [🕵️ Caesar Cipher](./008_caesar_cipher) | functions with parameters, return values, modulo arithmetic |
+| 9 | ✅ Done | [🏆 Secret Auction](./009_secret_auction) | dictionaries, functions, input validation, loops |
+| 10 | ✅ Done | [🧮 Calculator](./010_calculator) | functions with outputs, return values, dictionaries, input validation |
+| 11 | ✅ Done | [🃏 Blackjack](./011_blackjack) | capstone project, functions, lists, score logic, input validation |
+| 12 | ✅ Done | [🔢 Number Guessing Game](./012_number_guessing_game) | scope, constants, random numbers, input validation, game loops |
+| 13 | ✅ Done | [🕵️ Debugging Detective](./013_debugging_detective) | debugging, bug types, dictionaries, input validation, code reading |
+| 14 | ✅ Done | [📈 Higher Lower Game](./014_higher_lower) | dictionaries, data comparison, random selection, score tracking |
+| 15 | ✅ Done | [☕ Coffee Machine](./015_coffee_machine) | dictionaries, resource management, money processing, program state |
+| 16 | ✅ Done | [☕ OOP Coffee Machine](./016_coffee_machine_oop) | classes, objects, methods, attributes, OOP structure |
+| 17 | ⏳ Coming soon | Day 17 project | More Object-Oriented Programming |
+| 18+ | ⏳ Coming soon | More projects | Intermediate Python, APIs, automation, GUI, web, data, and capstones |
 
 ---
 
@@ -81,6 +82,8 @@ Progress: ███████████████░░░░░░░░�
 - Score tracking across game rounds
 - Resource checking and program-state updates
 - Coin processing and transaction validation
+- Classes, objects, attributes, and methods
+- Object responsibility and program coordination
 - Terminal screen clearing with the `os` module
 - Splitting code across multiple files
 - Writing cleaner project documentation
@@ -106,6 +109,7 @@ Progress: ███████████████░░░░░░░░�
 ├── 013_debugging_detective/
 ├── 014_higher_lower/
 ├── 015_coffee_machine/
+├── 016_coffee_machine_oop/
 ├── PROJECT_INDEX.md
 ├── .gitignore
 └── README.md
@@ -135,7 +139,7 @@ cd 100-days-python-bootcamp
 Go into any completed day folder:
 
 ```bash
-cd 015_coffee_machine
+cd 016_coffee_machine_oop
 python main.py
 ```
 
