@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code: Python Bootcamp Journey
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Completed-18%2F100-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Completed-19%2F100-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)
 ![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-purple?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20with-Discipline%20%2B%20Coffee-black?style=for-the-badge)
@@ -28,12 +28,12 @@ The goal is simple:
 
 ## 📍 Current progress
 
-**Completed:** `18 / 100` days  
+**Completed:** `19 / 100` days  
 **Current stage:** Intermediate Python foundations  
-**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, scope, constants, input validation, debugging, resource management, transaction logic, classes, objects, methods, Turtle Graphics, RGB colors, external libraries, color extraction, and visual pattern drawing.
+**Main focus so far:** input/output, conditionals, loops, functions, lists, dictionaries, modules, console games, scope, constants, input validation, debugging, resource management, transaction logic, classes, objects, methods, Turtle Graphics, keyboard events, multiple object instances, random movement, and visual interaction.
 
 ```text
-Progress: ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 18%
+Progress: ███████████████████░░░░░░░░░░░░░░░░░░░░░░░ 19%
 ```
 
 ---
@@ -59,9 +59,10 @@ Progress: ██████████████████░░░░░�
 | 15 | ✅ Done | [☕ Coffee Machine](./015_coffee_machine) | dictionaries, resource management, money processing, program state |
 | 16 | ✅ Done | [☕ OOP Coffee Machine](./016_coffee_machine_oop) | classes, objects, methods, attributes, OOP structure |
 | 17 | ✅ Done | [🧠 OOP Quiz Game](./017_brain_quiz) | classes, objects, constructors, lists of objects, quiz logic |
-| 18 | ✅ Done | [🎨 Hirst Dot Painting](./018_turtle_graphics) | Turtle Graphics, colorgram.py, RGB colors, loops, dot grid painting |
-| 19 | ⏳ Coming soon | Day 19 project | Turtle events and instances |
-| 20+ | ⏳ Coming soon | More projects | Intermediate Python, APIs, automation, GUI, web, data, and capstones |
+| 18 | ✅ Done | [🎨 Hirst Dot Painting](./018_hirst_paintaing) | Turtle Graphics, colorgram.py, RGB colors, loops, dot grid painting |
+| 19 | ✅ Done | [🏁 Turtle Race + Etch-A-Sketch](./019_turtle_race) | Turtle events, keyboard controls, multiple Turtle objects, random movement |
+| 20 | ⏳ Coming soon | Day 20 project | Snake Game Part 1 |
+| 21+ | ⏳ Coming soon | More projects | Intermediate Python, APIs, automation, GUI, web, data, and capstones |
 
 ---
 
@@ -85,13 +86,15 @@ Progress: ██████████████████░░░░░�
 - Resource checking and program-state updates
 - Coin processing and transaction validation
 - Classes, objects, constructors, attributes, and methods
-- Lists of objects
+- Lists of objects and multiple object instances
 - Object responsibility and program coordination
 - Turtle Graphics and visual programming
-- RGB color generation
+- Keyboard event handling
+- User interaction through screen prompts
+- Randomized animation-style movement
 - External package usage with `colorgram.py`
 - Image-based color extraction
-- Drawing geometric shapes, random walks, spirographs, and dot-grid artwork
+- Drawing geometric shapes, random walks, spirographs, dot-grid artwork, and turtle races
 - Splitting code across multiple files
 - Writing cleaner project documentation
 
@@ -118,7 +121,8 @@ Progress: ██████████████████░░░░░�
 ├── 015_coffee_machine/
 ├── 016_coffee_machine_oop/
 ├── 017_brain_quiz/
-├── 018_turtle_graphics/
+├── 018_hirst_paintaing/
+├── 019_turtle_race/
 ├── PROJECT_INDEX.md
 ├── .gitignore
 └── README.md
@@ -148,14 +152,14 @@ cd 100-days-python-bootcamp
 Go into any completed day folder:
 
 ```bash
-cd 018_turtle_graphics
+cd 019_turtle_race
 python main.py
 ```
 
-For Day 18, install the required package first:
+To run the Etch-A-Sketch practice file:
 
 ```bash
-python -m pip install colorgram.py
+python section_code.py
 ```
 
 On some systems, use:
